@@ -110,6 +110,14 @@ background-color: 	#f5eec2;
   font-size: 2rem; /* Default font size for larger screens */
   } /* Center the text horizontally */
  
+ .footer-about-us {
+    color: #fff;
+    font-size: 1rem; /* Default font size for larger screens */
+    } 
+  .quote {
+      color: #fff;
+      font-size: 2rem; /* Default font size for larger screens */
+      }
  /* Media queries for responsiveness */
  @media (max-width: 768px) {
      font-size: 4rem; /* Adjust font size for medium-sized screens */
